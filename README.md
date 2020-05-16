@@ -9,7 +9,7 @@ When there is only one predictor variable the prediction method is called simple
 In simple linear regression, the topic of this section, the predictions of Y when plotted as a function of X from a straight line.<br>
 
 As we know formula  of a line as : <Strong >Y = mx + c</strong><br>
-<h3>Steps to procced</h3><br>
+<h3>Steps to procced</h3>
   1) find the mean of X and Y<br>
   2) find the slope(m) using the formula: <strong> m=summation of (x-X')*(y-Y')/summation of(x-x')**2</Strong><br>
   3) Now find the intersept(C) by putting the mean_X and mean_y in the line equation.<br>
