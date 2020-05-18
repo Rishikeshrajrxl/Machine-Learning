@@ -41,7 +41,7 @@ In order to built a decision tree which use Decision tree algorithm, we use CART
 
 <h5>How does Tree decide where to split </h5>
 <strong>1) Gini:</strong>
-The measure of impurity used in buk=ilding decision tree in CART is Gini index.
+The measure of impurity used in buk=ilding decision tree in CART is Gini index.<br>
 <strong>2) Information Gain</strong>
 The information gain is the decrease in entropy after a dataset is split on the basis of an attribute. constructing a decision tree is all about finding attributes that returns the highest information gain. <br>
 <strong>3) Reduction in variance</strong>
