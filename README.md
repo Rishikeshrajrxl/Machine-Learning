@@ -27,6 +27,11 @@ Decision Tree Regression<br>
 <h1>Classification</h1>
 It is the process of dividing the datasets into different categories or groups by adding label.<br>
 Note: It adds the data point to a particular labelled group on the basis of some condition.<br>
+<h5>How does Tree decide where to split </h5>
+<strong>1) Gini:</strong>
+The measure of impurity used in buk=ilding decision tree in CART is Gini index.
+<strong>2) Information Gain</strong>
+The information gain is the decrease in entropy after a dataset is split on the basis of an attribute. constructing a decision tree is all about finding attributes that returns the highest information gain. 
 
 <h4>Types of Classification</h4>
 <h5>1) Decision Tree<br>
