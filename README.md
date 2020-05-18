@@ -52,7 +52,7 @@ Which measures the impurity of the information,<br>
 Defines randomness in the data,<br>
 The first step to solve the problem of a decision tree.<br>
 <br>
-<strong>Entropy(s): -p(YES)*log base(2)* p(yes)-p(NO)*log base(2)*p(NO)</strong>
+<strong>Entropy(s): -p(YES)*log base(2)* p(yes)-p(NO)*log base(2)*p(NO)</strong><br>
 where s=total sample space<br>
       p(YES)=is probability of yes.<br>
       
