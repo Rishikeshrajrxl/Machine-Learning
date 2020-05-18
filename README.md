@@ -47,3 +47,19 @@ The information gain is the decrease in entropy after a dataset is split on the 
 <strong>3) Reduction in variance</strong>
 Reduction in variance is an algorithm used for continious target variable. The split with lower variable is selected as the criteria to split the population.<br>
 
+<h3>Entropy</h3>
+Which measures the impurity of the information,<br>
+Defines randomness in the data,<br>
+The first step to solve the problem of a decision tree.<br>
+<br>
+<strong>Entropy(s): -p(YES)*log base(2)* p(yes)-p(NO)*log base(2)*p(NO)</strong>
+where s=total sample space<br>
+      p(YES)=is probability of yes.<br>
+      
+If number of YES = number of NO = 0.5  then, Entropy(s)=1<br>
+If it contains all YES or all NO = 1 or 0 then, Entropy(s)=0<br>
+
+Information Gain = Entropy(s) - [(Weighted avg)* Entropy(each feature)]<br>
+
+
+  
