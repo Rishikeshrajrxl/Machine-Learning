@@ -20,3 +20,17 @@ As we know formula  of a line as : <Strong >Y = mx + c</strong><br>
   Higher the R-squared value, more efficient is the line of regression.<br>
   <Strong>Formula: R**2 = (summation(Yp - Y')**2)\(summation(Y - Y')**2)</strong>
   
+<hr>
+<br>
+Decision Tree Regression<br>
+<hr>
+<h1>Classification</h1>
+It is the process of dividing the datasets into different categories or groups by adding label.<br>
+Note: It adds the data point to a particular labelled group on the basis of some condition.<br>
+
+<h4>Types of Classification</h4>
+<h5>1) Decision Tree<br>
+    2) Random Forest<br>
+    3) Naive Bayes<br>
+    4) KNN</h5>
+ 
