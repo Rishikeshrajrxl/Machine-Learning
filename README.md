@@ -37,10 +37,13 @@ Note: It adds the data point to a particular labelled group on the basis of some
  
 <h2>Decision Tree</h2>
 It is a graphical representation of all the possible solution to a decision based on certain conditions.
-In order to built a decision tree which use Decision tree algorithm, we use CART (Classification & Regression Tree).
+In order to built a decision tree which use Decision tree algorithm, we use CART (Classification & Regression Tree).<br>
 
 <h5>How does Tree decide where to split </h5>
 <strong>1) Gini:</strong>
 The measure of impurity used in buk=ilding decision tree in CART is Gini index.
 <strong>2) Information Gain</strong>
-The information gain is the decrease in entropy after a dataset is split on the basis of an attribute. constructing a decision tree is all about finding attributes that returns the highest information gain. 
+The information gain is the decrease in entropy after a dataset is split on the basis of an attribute. constructing a decision tree is all about finding attributes that returns the highest information gain. <br>
+<strong>3) Reduction in variance</strong>
+Reduction in variance is an algorithm used for continious target variable. The split with lower variable is selected as the criteria to split the population.<br>
+
