@@ -34,3 +34,6 @@ Note: It adds the data point to a particular labelled group on the basis of some
     3) Naive Bayes<br>
     4) KNN</h5>
  
+<h2>Decision Tree</h2>
+It is a graphical representation of all the possible solution to a decision based on certain conditions.
+In order to built a decision tree which use Decision tree algorithm, we use CART (Classification & Regression Tree).
